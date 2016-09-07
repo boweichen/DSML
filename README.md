@@ -1,24 +1,17 @@
-# CMP3036M Data Science
+# CMP3036M Data Science 
+### School of Computer Science, University of Lincoln, UK 
 
-### School of Computer Science, University of Lincoln, UK
-### Instructor: [Bowei Chen](http://staff.lincoln.ac.uk/bchen) [[email](mailto:bchen@lincoln.ac.uk)]
+---
+## Brief Info
 
-<pre>
-             ,-. 
-    ,     ,-.   ,-. 
-   / \   (   )-(   ) 
-   \ |  ,.>-(   )-< 
-    \|,' (   )-(   ) 
-     Y ___`-'   `-' 
-     |/__/   `-' 
-     | 
-     | 
-     |    -hrr- 
-  ___|_____________ 
-</pre>
+### Module Coordinator: 
+* Bowei Chen [[bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk) | [http://staff.lincoln.ac.uk/bchen](http://staff.lincoln.ac.uk/bchen)]
+* Office hours: TBC
 
+### Demonstrators/Teaching Assistants: 
+* Deema Abdal Hafeth [[dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk)]
 
-### 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+### Timetable: 
+* Lecture: TBC
+* Workshop: TBC
+
