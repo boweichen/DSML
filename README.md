@@ -12,6 +12,12 @@
 * Deema Abdal Hafeth [[dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk)]
 
 ### Timetable: 
+* 2016 Fall & 2017 Spring (Semesters A & B)
 * Lecture: TBC
 * Workshop: TBC
 
+---
+## Topics in 2016 Fall 
+
+
+## Textbooks
