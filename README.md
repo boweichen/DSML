@@ -1,8 +1,10 @@
 ![GitHub Logo](figs/uol-logo-dark.png)
 # CMP3036M Data Science 
 
+## Table of contents
+  * [Brief Info](#BriefInfo)
 
-## Brief Info
+## [Brief Info](#BriefInfo)
 
 ### Module Coordinator: 
 * Bowei Chen [[bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk) | [http://staff.lincoln.ac.uk/bchen](http://staff.lincoln.ac.uk/bchen)]
@@ -36,9 +38,9 @@
 ## Reading Materials
 
 > **Note:**
->- This is an incomplete reading list for studying the so-called Data Science subject. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. Please commmit or contact me via [bchen@lincoln.ac.uk](bchen@lincoln.ac.uk). 
->- Many recommended materials have free e-copies, please search them online. For UoL's students, some physcial copies can also be borrrowed from the university library. 
->- If you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in class mainly come from textbooks (probability and stats from Casella and machine learning from Abu-Mostafa). This is a general guide for your study. I would suggest you select the materials to read according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please feel free to contact me.   
+>- This is an incomplete reading list for studying the so-called Data Science subject. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. Please commmit or contact me via [bchen@lincoln.ac.uk](bchen@lincoln.ac.uk). If you are new to Github (like me), the book Pro Git [[https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)] might be useful!
+>- Many recommended materials here also have free e-copies, please google them online. For UoL's students, some physcial copies can also be borrrowed from the university library. 
+>- For UoL's students, if you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in class mainly come from textbooks (probability and stats from Casella and machine learning from Abu-Mostafa), please . This is a general guide for your study. I would suggest you select the materials to read according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please feel free to contact me.   
 
 ### Textbooks
 - George Casella, Roger Berger. *Statistical Inference*. 2nd Edition, 2002 [[Link](http://www.cengage.com/search/productOverview.do?N=16+4294945500&Ntk=P_EPI&Ntt=24775198043600432521413985511605179&Ntx=mode%2Bmatchallpartial)]
