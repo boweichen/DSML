@@ -52,19 +52,24 @@
 
 #### Machine Learning
 - Kevin Murrphy. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012
+- David Barber. *Bayesian Reasoning and Machine Learning*, Cambridge University Press, 2012
+- Christopher Bishop. *Pattern Recognition and Machine Learnin*, Springer, 2007
+- Trevor Hastie, Robert Tibshirani, Jerome Friedman. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd Edition, Springer, 2011
 
 #### Data Science Tools
 
 ##### Python
-- Wes McKinney *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. O'Reilly, 2012
-- Sebastian Raschka *Python Machine Learning*. Packt Publishing, 2015
+- Wes McKinney. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. O'Reilly, 2012
+- Sebastian Raschka. *Python Machine Learning*. Packt Publishing, 2015
+- Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[https://www.kevinsheppard.com](https://www.kevinsheppard.com)]  
   
 ##### R
 - Nina Zumel, John Mount. *Practical Data Science with R*. Manning Publications, 2014
-- Deborah Nolan, Duncan Lang. *Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving*. Chapman & Hall/CRC, 2015
+- Deborah Nolan, Duncan Lang. *Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving*. CRC, 2015
 - Robert Kabacoff. *R in Action: Data Analysis and Graphics with R*. Manning Publications, 2015
 - Hadley Wickham. *ggplot2: Elegant Graphics for Data Analysis*. 2nd Edition, Springer, 2016
-- Hadley Wickham. *Advanced R*. Chapman & Hall/CRC, 2014
+- Hadley Wickham. *Advanced R*. CRC, 2014
+- Roger Peng. *R Programming for Data Science*. Leanpub, 2016 [[https://leanpub.com/u/rdpeng](https://leanpub.com/u/rdpeng)]
 
 ##### Matlab
-- Wendy Martinez, Angel Martinez . *Computational Statistics Handbook with Matlab*. 3rd Edition, Chapman & Hall/CRC, 2015
+- Wendy Martinez, Angel Martinez . *Computational Statistics Handbook with Matlab*. 3rd Edition, CRC, 2015
