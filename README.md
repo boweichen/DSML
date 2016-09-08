@@ -3,14 +3,15 @@
 
 ## Brief Info
 
-### Module Coordinator: 
-* Bowei Chen [[bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk) | [http://staff.lincoln.ac.uk/bchen](http://staff.lincoln.ac.uk/bchen)]
-* Office hours: TBC
+### Delivery Team 
 
-### Demonstrators/Teaching Assistants: 
-* Deema Abdal Hafeth [[dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk)]
+| Name          | Role                | Contact                                                          | 
+| ------------- | ------------------- | ---------------------------------------------------------------- | 
+| Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
+| Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) | 
 
-### Timetable: 
+
+### Timetable 
 * 2016 Fall & 2017 Spring (Semesters A & B)
 * Lecture: TBC
 * Workshop: TBC
