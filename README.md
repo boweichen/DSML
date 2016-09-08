@@ -25,7 +25,7 @@
 > **Note:**
 >- This is an incomplete reading list for CMP3036M Data Science. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. Please commmit or contact me via [bchen@lincoln.ac.uk](bchen@lincoln.ac.uk). 
 >- Many recommended materials have free versions, please search them online. Some physcial copies can also be borrrowed from the university library. 
->- If you have been enrolled CMP3036M Data Science, please be aware that you are expected to read ALL materials! This is just the general guide for your study. You should properly select the materials to read according your background and strengths. 
+>- If you have been enrolled CMP3036M Data Science, please be aware that you are NOT expected to read ALL materials! This is just the general guide for your study. You should properly select the materials to read according your background and strengths. 
 
 ### Textbooks
 - George Casella, Roger Berger. *Statistical Inference*. 2nd Edition, 2002 [[Link](http://www.cengage.com/search/productOverview.do?N=16+4294945500&Ntk=P_EPI&Ntt=24775198043600432521413985511605179&Ntx=mode%2Bmatchallpartial)]
