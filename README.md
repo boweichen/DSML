@@ -1,4 +1,4 @@
-![GitHub Logo](uol-logo-dark.png)
+![GitHub Logo](figs/uol-logo-dark.png)
 # CMP3036M Data Science 
 
 
