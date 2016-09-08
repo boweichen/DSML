@@ -16,21 +16,60 @@
 * Workshop: TBC
 
 
-## Topics in 2016 Fall (Semester A)
+## Topics
+
+### 2016 Fall (Semester A)
 
 - [ ] Week 01
+  - Lecture: Introduction
+  - Workshop: NA
 - [ ] Week 02
+  - Lecture: Probabaility Review
+  - Workshop: Installation of R and RStudio
 - [ ] Week 03
+  - Lecture: Popular Distributions
+  - Workshop: Data Sstructure in R
 - [ ] Week 04
+  - Lecture: Point and Interval Estimation
+  - Workshop: 
 - [ ] Week 05
+  - Lecture: Sampling
+  - Workshop:
 - [ ] Week 06
+  - Lecture: Hypothesis Testing
+  - Workshop:
 - [ ] Week 07
+  - Lecture: Direct Study (Reading) Week
+  - Workshop:
 - [ ] Week 08
+  - Lecture: Linear Regression
+  - Workshop:
 - [ ] Week 09
+  - Lecture: Logistic Regression
+  - Workshop:
 - [ ] Week 10
+  - Lecture: Generalized Linear Models and the Exponential Family
+  - Workshop:
 - [ ] Week 11
+  - Lecture: Decision Tree
+  - Workshop:
 - [ ] Week 12
+  - Lecture: Support Vector Machines (1/2)
+  - Workshop:
 - [ ] Week 13
+  - Lecture: Support Vector Machines (2/2)
+  - Workshop:
+
+### 2017 Spring (Semester B)
+
+- [ ] Weeks 01 - 06
+  - Lecture (Theory): Unsupervised Learning
+  - Workshop (Practice): Python Programming for Data Science
+- [ ] Weeks 08 - 13
+  - Lecture (Theory): Neural Network and Deep Learning
+  - Workshop (Practice): Azure/AWS + Spark + Mxnet
+
+> **Topics in Semester B might be adjusted according to instructor(s).**
 
 ## Reading Materials
 
