@@ -1,5 +1,5 @@
+![GitHub Logo](uol-logo-dark.png)
 # CMP3036M Data Science 
-### School of Computer Science, University of Lincoln, UK 
 
 
 ## Brief Info
