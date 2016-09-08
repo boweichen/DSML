@@ -1,7 +1,7 @@
 # CMP3036M Data Science 
 ### School of Computer Science, University of Lincoln, UK 
 
----
+
 ## Brief Info
 
 ### Module Coordinator: 
@@ -16,8 +16,9 @@
 * Lecture: TBC
 * Workshop: TBC
 
----
+
 ## Topics in 2016 Fall (Semester A)
+
 - [ ] Week 01
 - [ ] Week 02
 - [ ] Week 03
