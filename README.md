@@ -17,8 +17,20 @@
 * Workshop: TBC
 
 ---
-## Topics in 2016 Fall 
-
+## Topics in 2016 Fall (Semester A)
+- [ ] Week 01
+- [ ] Week 02
+- [ ] Week 03
+- [ ] Week 04
+- [ ] Week 05
+- [ ] Week 06
+- [ ] Week 07
+- [ ] Week 08
+- [ ] Week 09
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+- [ ] Week 13
 
 ## Reading Materials
 
