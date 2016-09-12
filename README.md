@@ -74,11 +74,14 @@
 
 ## Reading Materials
 
-> **Please note:**
->- This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. If you would like to share knowledge, please make commits or contact me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[Link](https://git-scm.com/book/en/v2)] might be useful.
->- Many recommended materials here have free e-copies, please google them online. For UoL's students, some physcial copies can be borrrowed from the university library. 
->- For UoL's students who have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in class mainly come from two textbooks (probability and stats from Casella and machine learning from Abu-Mostafa), please check your lecture slides and assessment documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
->- For UoL's students who have chosen Level-3/MComp projects with me, this reading list will provide you a guidance on preliminaries (i.e., models and tools) for your projects. 
+> **Note:**
+
+> This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. If you would like to share knowledge, please make commits or contact me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[Link](https://git-scm.com/book/en/v2)] might be useful.
+
+> **For UoL's students:**
+>  * Many recommended materials have free e-copies, please google them. Physcial copies of some materials can be borrowed from the university library, please check the library database [[Link](https://library.lincoln.ac.uk)]
+>  * If you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in lectures (theory) mainly come from two textbooks and the tools introduced in workshops (practice) mainly based on workshop materials, please check your slides, example codes, and assessement documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
+>  * If you have chosen the Level-3/MComp projects with me, this reading list will provide you a guidance on preliminaries (i.e., models and tools) for your projects. 
 
 
 ### Textbooks
