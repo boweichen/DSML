@@ -76,7 +76,7 @@
 
 > **Note:**
 
-> This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. If you would like to share knowledge, please make commits or contact me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[Link](https://git-scm.com/book/en/v2)] might be useful.
+>  * This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. If you would like to share knowledge, please make commits or contact me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[Link](https://git-scm.com/book/en/v2)] might be useful.
 
 > **For UoL's students:**
 >  * Many recommended materials have free e-copies, please google them. Physcial copies of some materials can be borrowed from the university library, please check the library database [[Link](https://library.lincoln.ac.uk)]
