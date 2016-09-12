@@ -92,7 +92,7 @@
 - Alexander Mood, Franklin Graybill, Duane Boes. *Introduction to the Theory of Statistics*, 3rd Edition, McGraw-Hill, 1974
 
 #### Machine Learning
-- Kevin Murrphy. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012
+- Kevin Murphy. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012
 - David Barber. *Bayesian Reasoning and Machine Learning*, Cambridge University Press, 2012
 - Christopher Bishop. *Pattern Recognition and Machine Learnin*, Springer, 2007
 - Trevor Hastie, Robert Tibshirani, Jerome Friedman. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd Edition, Springer, 2011
