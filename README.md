@@ -32,34 +32,34 @@
   - Workshop: Data Sstructure in R
 - [ ] Week 04
   - Lecture: Point and Interval Estimation
-  - Workshop: 
+  - Workshop: TBC
 - [ ] Week 05
   - Lecture: Sampling
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 06
   - Lecture: Hypothesis Testing
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 07
   - Lecture: Direct Study (Reading) Week
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 08
   - Lecture: Linear Regression
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 09
   - Lecture: Logistic Regression
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 10
   - Lecture: Generalized Linear Models and the Exponential Family
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 11
   - Lecture: Decision Tree
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 12
   - Lecture: Support Vector Machines (1/2)
-  - Workshop:
+  - Workshop: TBC
 - [ ] Week 13
   - Lecture: Support Vector Machines (2/2)
-  - Workshop:
+  - Workshop: TBC
 
 ### 2017 Spring (Semester B)
 
@@ -75,9 +75,9 @@
 ## Reading Materials
 
 > **Please note:**
->- This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. Please make commits or contact me if you would like to share knowledge [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)] might be useful.
+>- This is an incomplete reading list for guiding UoL's students to study the so-called Data Science subject. It is an emerging multidisciplinary subject combining the fields of probability, statistics, machine learning, cloud computing, big data and so on, covering both theory and practice. Due to my limited knowledge and background, the content might be baised towards some fields. I will keep updating the list. In the meantime, any of your contributions is welcome. If you would like to share knowledge, please make commits or contact me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)]. If you are new to Github (like me), the book Pro Git [[Link](https://git-scm.com/book/en/v2)] might be useful.
 >- Many recommended materials here have free e-copies, please google them online. For UoL's students, some physcial copies can be borrrowed from the university library. 
->- For UoL's students who have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in class mainly come from two textbooks (probability and stats from Casella and machine learning from Abu-Mostafa), please check your lecture slides and assessment documents on Blackboard [[https://blackboard.lincoln.ac.uk](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
+>- For UoL's students who have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in class mainly come from two textbooks (probability and stats from Casella and machine learning from Abu-Mostafa), please check your lecture slides and assessment documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
 >- For UoL's students who have chosen Level-3/MComp projects with me, this reading list will provide you a guidance on preliminaries (i.e., models and tools) for your projects. 
 
 
@@ -102,7 +102,7 @@
 ##### Python
 - Wes McKinney. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. O'Reilly, 2012
 - Sebastian Raschka. *Python Machine Learning*. Packt Publishing, 2015
-- Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[https://www.kevinsheppard.com](https://www.kevinsheppard.com)]  
+- Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[Link](https://www.kevinsheppard.com)]  
   
 ##### R
 - Nina Zumel, John Mount. *Practical Data Science with R*. Manning Publications, 2014
@@ -110,7 +110,14 @@
 - Robert Kabacoff. *R in Action: Data Analysis and Graphics with R*. Manning Publications, 2015
 - Hadley Wickham. *ggplot2: Elegant Graphics for Data Analysis*. 2nd Edition, Springer, 2016
 - Hadley Wickham. *Advanced R*. CRC, 2014
-- Roger Peng. *R Programming for Data Science*. Leanpub, 2016 [[https://leanpub.com/u/rdpeng](https://leanpub.com/u/rdpeng)]
+- Roger Peng. *R Programming for Data Science*. Leanpub, 2016 [[Link](https://leanpub.com/u/rdpeng)]
 
 ##### Matlab
-- Wendy Martinez, Angel Martinez . *Computational Statistics Handbook with Matlab*. 3rd Edition, CRC, 2015
+- Wendy Martinez, Angel Martinez. *Computational Statistics Handbook with Matlab*. 3rd Edition, CRC, 2015
+ 
+##### Spark
+- Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia. *Learning Spark*. O'Reilly, 2015 [[Link](http://shop.oreilly.com/product/0636920028512.do)]
+- UC Berkeley Apache Spark Series on edX:
+  * Introduction to Apache Spark [[Link](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)]
+  * Distributed Machine Learning with Apache Spark [[Link](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)]
+  * Big Data Analysis with Apache Spark [[Link](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)]
