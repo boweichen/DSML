@@ -29,7 +29,7 @@
   - Workshop: Installation of R and RStudio
 - [ ] Week 03
   - Lecture: Popular Distributions
-  - Workshop: Data Sstructure in R
+  - Workshop: Data Structure in R
 - [ ] Week 04
   - Lecture: Point and Interval Estimation
   - Workshop: TBC
