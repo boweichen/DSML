@@ -8,7 +8,7 @@
 | Name          | Role                | Contact                                                          | 
 | ------------- | ------------------- | ---------------------------------------------------------------- | 
 | Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
-| Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) | 
+| Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) |
 
 
 ### Timetable 
