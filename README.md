@@ -9,6 +9,8 @@
 | ------------- | ------------------- | ---------------------------------------------------------------- | 
 | Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
 | Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) |
+| Liyun Gong          | Demonstrator/TA        | [lgong@lincoln.ac.uk](lgong@lincoln.ac.uk) |
+| Jingmin Huang       | Demonstrator/TA        | [TBC](https://github.com/boweichen/CMP3036MDataScience/edit/master/README.md) |
 
 
 ### Timetable 
@@ -80,7 +82,7 @@
 
 > **For UoL's students:**
 >  * Many recommended materials have free e-copies, please google them. Physcial copies of some materials can be borrowed from the university library, please check the library database [[Link](https://library.lincoln.ac.uk)]
->  * If you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in lectures (theory) mainly come from two textbooks and the tools introduced in workshops (practice) mainly based on workshop materials, please check your slides, example codes, and assessement documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
+>  * If you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in lectures (theory) mainly come from two textbooks and the tools introduced in workshops (practice) mainly based on workshop materials, please check your slides, example codes, and assessment documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
 >  * If you have chosen the Level-3/MComp projects with me, this reading list will provide you a guidance on preliminaries (i.e., models and tools) for your projects. 
 
 
@@ -111,12 +113,14 @@
 - Nina Zumel, John Mount. *Practical Data Science with R*. Manning Publications, 2014
 - Deborah Nolan, Duncan Lang. *Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving*. CRC, 2015
 - Robert Kabacoff. *R in Action: Data Analysis and Graphics with R*. Manning Publications, 2015
-- Hadley Wickham. *ggplot2: Elegant Graphics for Data Analysis*. 2nd Edition, Springer, 2016
+- Hadley Wickham. *ggplot2: Elegant Graphics for Data Analysis*. 2nd Edition, Springer, 2016 [[Link](http://ggplot2.org/book)]
 - Hadley Wickham. *Advanced R*. CRC, 2014
+- Deepayan Sarkar. *Lattice: Multivariate Data Visualization with R*. Springer, 2008 [[Link](http://lmdvr.r-forge.r-project.org/figures/figures.html)]
 - Roger Peng. *R Programming for Data Science*. Leanpub, 2016 [[Link](https://leanpub.com/u/rdpeng)]
 
 ##### Matlab
 - Wendy Martinez, Angel Martinez. *Computational Statistics Handbook with Matlab*. 3rd Edition, CRC, 2015
+- Jaan Kiusalaas. *Numerical Methods in Engineering with MATLAB*. 2nd Edition, Cambridge University Press, 2012
  
 ##### Spark
 - Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia. *Learning Spark*. O'Reilly, 2015 [[Link](http://shop.oreilly.com/product/0636920028512.do)]
@@ -124,3 +128,4 @@
   * Introduction to Apache Spark [[Link](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)]
   * Distributed Machine Learning with Apache Spark [[Link](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)]
   * Big Data Analysis with Apache Spark [[Link](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)]
+  
