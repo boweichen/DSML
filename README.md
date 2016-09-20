@@ -14,10 +14,16 @@
 
 
 ### Timetable 
-* 2016 Fall & 2017 Spring (Semesters A & B)
-* Lecture: TBC
-* Workshop: TBC
+2016 Fall (Semesters A)
 
+| Class    | Time                             | Room   |
+|----------|----------------------------------|--------|
+| Lecture  | Thursday 15:00 - 16:00           | MB0312 |
+| Workshop | Thursday 9:00 - 11:00 (Group A)  | MC3203 |
+| Workshop | Thursday 16:00 - 18:00 (Group C) | MC3204 |
+| Workshop | Friday 15:00 - 17:00 (Group B)   | MC3204 |
+
+2017 Spring (Semester B) TBC
 
 ## Topics
 
