@@ -10,7 +10,7 @@
 | Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
 | Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) |
 | Liyun Gong          | Demonstrator/TA        | [lgong@lincoln.ac.uk](lgong@lincoln.ac.uk) |
-| Jingmin Huang       | Demonstrator/TA        | [TBC](https://github.com/boweichen/CMP3036MDataScience/edit/master/README.md) |
+| Jingmin Huang       | Demonstrator/TA        | [jhua8590@gmail.com](jhua8590@gmail.com) |
 
 
 ### Timetable 
@@ -31,37 +31,36 @@
 
 - [ ] Week 01
   - Lecture: Introduction
-  - Workshop: NA
 - [ ] Week 02
   - Lecture: Probabaility Review
-  - Workshop: Installation of R and RStudio
+  - Workshop: Introduction to R and RStudio
 - [ ] Week 03
   - Lecture: Popular Distributions
   - Workshop: Data Structure in R
 - [ ] Week 04
   - Lecture: Point and Interval Estimation
-  - Workshop: TBC
+  - Workshop: Data I/O in R
 - [ ] Week 05
   - Lecture: Sampling
-  - Workshop: TBC
+  - Workshop: R Graphics (1/2): Exploratory Graphs and Base Plotting System
 - [ ] Week 06
   - Lecture: Hypothesis Testing
-  - Workshop: TBC
+  - Workshop: R Graphics (2/2): lattice & ggplot2 
 - [ ] Week 07
-  - Lecture: Direct Study (Reading) Week
-  - Workshop: TBC
+  - Lecture: Week for Direct Study 
+  - Workshop: Week for Direct Study
 - [ ] Week 08
   - Lecture: Linear Regression
-  - Workshop: TBC
+  - Workshop: Handling and Processing Strings in R
 - [ ] Week 09
   - Lecture: Logistic Regression
-  - Workshop: TBC
+  - Workshop: Linear Models in R (1/2)
 - [ ] Week 10
   - Lecture: Generalized Linear Models and the Exponential Family
-  - Workshop: TBC
+  - Workshop: Linear Models in R (1/2)
 - [ ] Week 11
   - Lecture: Decision Tree
-  - Workshop: TBC
+  - Workshop: Introduction to Microsoft Azure and Azure ML Studio
 - [ ] Week 12
   - Lecture: Support Vector Machines (1/2)
   - Workshop: TBC
@@ -70,15 +69,8 @@
   - Workshop: TBC
 
 ### 2017 Spring (Semester B)
+- TBC
 
-- [ ] Weeks 01 - 06
-  - Lecture (Theory): Unsupervised Learning
-  - Workshop (Practice): Python Programming for Data Science
-- [ ] Weeks 08 - 13
-  - Lecture (Theory): Neural Network and Deep Learning
-  - Workshop (Practice): Azure/AWS + Spark + Mxnet
-
-> **Topics in Semester B might be adjusted according to instructor(s).**
 
 ## Reading Materials
 
