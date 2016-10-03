@@ -29,7 +29,7 @@
 
 ### 2016 Fall (Semester A)
 
-- [ ] Week 01
+- [x] Week 01
   - Lecture: Introduction
 - [ ] Week 02
   - Lecture: Probabaility Review
@@ -57,7 +57,7 @@
   - Workshop: Linear Models in R (1/2)
 - [ ] Week 10
   - Lecture: Generalized Linear Models and the Exponential Family
-  - Workshop: Linear Models in R (1/2)
+  - Workshop: Linear Models in R (2/2)
 - [ ] Week 11
   - Lecture: Decision Tree
   - Workshop: Introduction to Microsoft Azure and Azure ML Studio
@@ -80,7 +80,7 @@
 
 > **For UoL's students:**
 >  * Many recommended materials have free e-copies, please google them. Physcial copies of some materials can be borrowed from the university library, please check the library database [[Link](https://library.lincoln.ac.uk)]
->  * If you have been enrolled in the module CMP3036M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in lectures (theory) mainly come from two textbooks and the tools introduced in workshops (practice) mainly based on workshop materials, please check your slides, example codes, and assessment documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
+>  * If you have been enrolled in the module CMP3036M/CMP9063M Data Science, please be aware that you are NOT expected to read all materials here! The topics covered in lectures (theory) mainly come from two textbooks and the tools introduced in workshops (practice) mainly based on workshop materials, please check your slides, example codes, and assessment documents on Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. The list here is a general guide for your direct study. I would suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
 >  * If you have chosen the Level-3/MComp projects with me, this reading list will provide you a guidance on preliminaries (i.e., models and tools) for your projects. 
 
 
@@ -99,6 +99,7 @@
 - David Barber. *Bayesian Reasoning and Machine Learning*, Cambridge University Press, 2012
 - Christopher Bishop. *Pattern Recognition and Machine Learnin*, Springer, 2007
 - Trevor Hastie, Robert Tibshirani, Jerome Friedman. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd Edition, Springer, 2011
+- Ian Goodfellow, Yoshua Bengio, Aaron Courville. *Deep Learning*,  Book in preparation for MIT Press, 2016 [[Link](http://www.deeplearningbook.org)]
 
 #### Data Science Tools
 
