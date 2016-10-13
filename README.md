@@ -31,14 +31,14 @@
 
 - [x] Week 01
   - Lecture: Introduction
-- [ ] Week 02
+- [x] Week 02
   - Lecture: Probabaility Review
   - Workshop: Introduction to R and RStudio
-- [ ] Week 03
-  - Lecture: Popular Distributions
+- [x] Week 03
+  - Lecture: Popular Distributions (1/2)
   - Workshop: Data Structure in R
 - [ ] Week 04
-  - Lecture: Point and Interval Estimation
+  - Lecture: Popular Distributions (2/2)
   - Workshop: Data I/O in R
 - [ ] Week 05
   - Lecture: Sampling
