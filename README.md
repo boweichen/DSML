@@ -37,11 +37,11 @@
 - [x] Week 03
   - Lecture: Popular Distributions (1/2)
   - Workshop: Data Structure in R
-- [ ] Week 04
+- [x] Week 04
   - Lecture: Popular Distributions (2/2)
   - Workshop: Data I/O in R
 - [ ] Week 05
-  - Lecture: Sampling
+  - Lecture: Inference
   - Workshop: R Graphics (1/2): Exploratory Graphs and Base Plotting System
 - [ ] Week 06
   - Lecture: Hypothesis Testing
@@ -54,19 +54,19 @@
   - Workshop: Handling and Processing Strings in R
 - [ ] Week 09
   - Lecture: Logistic Regression
-  - Workshop: Linear Models in R (1/2)
+  - Workshop: Linear Models in R
 - [ ] Week 10
-  - Lecture: Generalized Linear Models and the Exponential Family
-  - Workshop: Linear Models in R (2/2)
-- [ ] Week 11
-  - Lecture: Decision Tree
+  - Lecture: Model Evaluation
   - Workshop: Introduction to Microsoft Azure and Azure ML Studio
+- [ ] Week 11
+  - Lecture: Naive Bayes
+  - Workshop: Text Classifications in R
 - [ ] Week 12
-  - Lecture: Support Vector Machines (1/2)
+  - Lecture: Support Vector Machines
   - Workshop: TBC
 - [ ] Week 13
-  - Lecture: Support Vector Machines (2/2)
-  - Workshop: TBC
+  - Lecture: Review
+  - Workshop: TBC 
 
 ### 2017 Spring (Semester B)
 - TBC
