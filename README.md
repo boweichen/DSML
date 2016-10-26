@@ -51,22 +51,22 @@
   - Workshop: Week for Direct Study
 - [ ] Week 08
   - Lecture: Linear Regression
-  - Workshop: Handling and Processing Strings in R
+  - Workshop: Introduction to Microsoft Azure and Azure ML Studio (Code Redeem)
 - [ ] Week 09
   - Lecture: Logistic Regression
-  - Workshop: Linear Models in R
+  - Workshop: Linear Regression in R
 - [ ] Week 10
-  - Lecture: Model Evaluation
-  - Workshop: Introduction to Microsoft Azure and Azure ML Studio
+  - Lecture: Data Cleaning, Cross-Validation & Overfitting
+  - Workshop: Logistic Regression in R
 - [ ] Week 11
-  - Lecture: Naive Bayes
-  - Workshop: Text Classifications in R
+  - Lecture: Evaluation
+  - Workshop: Regression Analysis on Azure ML Studio (with R Scripts)
 - [ ] Week 12
-  - Lecture: Support Vector Machines
-  - Workshop: TBC
+  - Lecture: Naive Bayes & Decision Tree
+  - Workshop: Evaluating Models in R
 - [ ] Week 13
   - Lecture: Review
-  - Workshop: TBC 
+  - Workshop: Data Programming Q&A 
 
 ### 2017 Spring (Semester B)
 - TBC
