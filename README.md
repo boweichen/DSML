@@ -40,7 +40,7 @@
 - [x] Week 04
   - Lecture: Popular Distributions (2/2)
   - Workshop: Data I/O in R
-- [ ] Week 05
+- [x] Week 05
   - Lecture: Inference
   - Workshop: R Graphics (1/2): Exploratory Graphs and Base Plotting System
 - [ ] Week 06
@@ -51,7 +51,7 @@
   - Workshop: Week for Direct Study
 - [ ] Week 08
   - Lecture: Linear Regression
-  - Workshop: Introduction to Microsoft Azure and Azure ML Studio (Code Redeem)
+  - Workshop: Handling and Processing Strings/Texts in R  
 - [ ] Week 09
   - Lecture: Logistic Regression
   - Workshop: Linear Regression in R
@@ -60,7 +60,7 @@
   - Workshop: Logistic Regression in R
 - [ ] Week 11
   - Lecture: Evaluation
-  - Workshop: Regression Analysis on Azure ML Studio (with R Scripts)
+  - Workshop: Microsoft Azure and Azure ML Studio (Code Redeem), and R Script in Azure ML Studio
 - [ ] Week 12
   - Lecture: Naive Bayes & Decision Tree
   - Workshop: Evaluating Models in R
