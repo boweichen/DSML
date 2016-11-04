@@ -43,7 +43,7 @@
 - [x] Week 05
   - Lecture: Inference
   - Workshop: R Graphics (1/2): Exploratory Graphs and Base Plotting System
-- [ ] Week 06
+- [x] Week 06
   - Lecture: Hypothesis Testing
   - Workshop: R Graphics (2/2): lattice & ggplot2 
 - [ ] Week 07
