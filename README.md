@@ -107,7 +107,7 @@
 - Wes McKinney. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. O'Reilly, 2012
 - Sebastian Raschka. *Python Machine Learning*. Packt Publishing, 2015
 - Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[Link](https://www.kevinsheppard.com)] 
-- Peter Harrington. *Machine Learning in Action*. Manning Publishing, 2002 [[Link](https://github.com/pbharrin/machinelearninginaction)]
+- Peter Harrington. *Machine Learning in Action*. Manning Publishing, 2012 [[Link](https://github.com/pbharrin/machinelearninginaction)]
   
 ##### R
 - Nina Zumel, John Mount. *Practical Data Science with R*. Manning Publications, 2014
