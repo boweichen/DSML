@@ -46,7 +46,7 @@
 - [x] Week 06
   - Lecture: Hypothesis Testing
   - Workshop: R Graphics (2/2): lattice & ggplot2 
-- [ ] Week 07
+- [x] Week 07
   - Lecture: Week for Direct Study 
   - Workshop: Week for Direct Study
 - [ ] Week 08
@@ -106,7 +106,8 @@
 ##### Python
 - Wes McKinney. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. O'Reilly, 2012
 - Sebastian Raschka. *Python Machine Learning*. Packt Publishing, 2015
-- Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[Link](https://www.kevinsheppard.com)]  
+- Kevin Sheppard. *Introduction to Python for Econometrics, Statistics and Data Analysis*. Lecture Notes, University of Oxford, 2014 [[Link](https://www.kevinsheppard.com)] 
+- Peter Harrington. *Machine Learning in Action*. Manning Publishing, 2002 [[Link](https://github.com/pbharrin/machinelearninginaction)]
   
 ##### R
 - Nina Zumel, John Mount. *Practical Data Science with R*. Manning Publications, 2014
