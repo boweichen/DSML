@@ -49,7 +49,7 @@
 - [x] Week 07
   - Lecture: Week for Direct Study 
   - Workshop: Week for Direct Study
-- [ ] Week 08
+- [x] Week 08
   - Lecture: Linear Regression
   - Workshop: Handling and Processing Strings/Texts in R  
 - [ ] Week 09
