@@ -51,7 +51,7 @@
 - [x] Week 08
   - Lecture: Linear Regression
   - Workshop: Handling and Processing Strings/Texts in R  
-- [ ] Week 09
+- [x] Week 09
   - Lecture: Logistic Regression
   - Workshop: Linear Regression in R
 - [ ] Week 10
