@@ -55,7 +55,7 @@
   - Lecture: Logistic Regression
   - Workshop: Linear Regression in R
 - [ ] Week 10
-  - Lecture: Data Cleaning, Cross-Validation & Overfitting
+  - Lecture: Cross-Validation & Overfitting
   - Workshop: Logistic Regression in R
 - [ ] Week 11
   - Lecture: Evaluation
