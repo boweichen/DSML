@@ -10,7 +10,6 @@
 | Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
 | Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) |
 | Jingmin Huang       | Demonstrator/TA        | [jhua8590@gmail.com](jhua8590@gmail.com) |
-| Liyun Gong          | Demonstrator/TA        | [lgong@lincoln.ac.uk](lgong@lincoln.ac.uk) |
 
 ### Timetable 
 2016 Fall (Semesters A)
@@ -55,7 +54,7 @@
   - Lecture: Logistic Regression
   - Workshop: Linear Regression in R
 - [ ] Week 10
-  - Lecture: Cross-Validation & Overfitting
+  - Lecture: Model Selection
   - Workshop: Logistic Regression in R
 - [ ] Week 11
   - Lecture: Evaluation
