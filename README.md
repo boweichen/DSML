@@ -53,12 +53,12 @@
 - [x] Week 09
   - Lecture: Logistic Regression
   - Workshop: Linear Regression in R
-- [ ] Week 10
+- [x] Week 10
   - Lecture: Model Selection
   - Workshop: Logistic Regression in R
 - [ ] Week 11
   - Lecture: Evaluation
-  - Workshop: Microsoft Azure and Azure ML Studio (Code Redeem), and R Script in Azure ML Studio
+  - Workshop: Model Selection in R
 - [ ] Week 12
   - Lecture: Naive Bayes & Decision Tree
   - Workshop: Evaluating Models in R
