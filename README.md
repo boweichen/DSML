@@ -56,7 +56,7 @@
 - [x] Week 10
   - Lecture: Model Selection
   - Workshop: Logistic Regression in R
-- [ ] Week 11
+- [x] Week 11
   - Lecture: Evaluation
   - Workshop: Model Selection in R
 - [ ] Week 12
