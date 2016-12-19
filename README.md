@@ -59,7 +59,7 @@
 - [x] Week 11
   - Lecture: Evaluation
   - Workshop: Model Selection in R
-- [ ] Week 12
+- [x] Week 12
   - Lecture: Naive Bayes & Decision Tree
   - Workshop: Evaluating Models in R
 - [ ] Week 13
