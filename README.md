@@ -63,8 +63,7 @@
   - Lecture: Naive Bayes & Decision Tree
   - Workshop: Evaluating Models in R
 - [ ] Week 13
-  - Lecture: Review
-  - Workshop: Data Programming Q&A 
+  - Lecture & Workshop: Questions & Answers (Q & A) 
 
 ### 2017 Spring (Semester B)
 - TBC
