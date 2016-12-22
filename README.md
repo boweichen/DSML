@@ -62,7 +62,7 @@
 - [x] Week 12
   - Lecture: Naive Bayes & Decision Tree
   - Workshop: Evaluating Models in R
-- [ ] Week 13
+- [x] Week 13
   - Lecture & Workshop: Questions & Answers (Q & A) 
 
 ### 2017 Spring (Semester B)
