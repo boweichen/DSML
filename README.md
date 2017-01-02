@@ -30,7 +30,7 @@
 - [x] Week 01
   - Lecture: Introduction
 - [x] Week 02
-  - Lecture: Probabaility Review
+  - Lecture: Probability Review
   - Workshop: Introduction to R and RStudio
 - [x] Week 03
   - Lecture: Popular Distributions (1/2)
