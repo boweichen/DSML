@@ -7,7 +7,7 @@
 
 | Name          | Role                | Contact                                                          | 
 | ------------- | ------------------- | ---------------------------------------------------------------- | 
-| Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)       |
+| Bowei Chen          | Instructor & Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)       |
 | Gerhard Neumann     | Instructor             | [gneumann@lincoln.ac.uk](mailto:gneumann@lincoln.ac.uk) |
 | Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk)|
 | Jingmin Huang       | Demonstrator/TA        | [jhua8590@gmail.com](jhua8590@gmail.com) |
