@@ -21,7 +21,14 @@
 | Workshop | Thursday 16:00 - 18:00 (Group C) | MC3204 |
 | Workshop | Friday 15:00 - 17:00 (Group B)   | MC3204 |
 
-2017 Spring (Semester B) TBC
+2017 Spring (Semester B)
+
+| Class    | Time                             | Room   |
+|----------|----------------------------------|--------|
+| Lecture  | Thursday 15:00 - 16:00           | JUN0005|
+| Workshop | Thursday 9:00 - 11:00 (Group A)  | MC3203 |
+| Workshop | Thursday 16:00 - 18:00 (Group C) | MC3203 |
+| Workshop | Friday 15:00 - 17:00 (Group B)   | MC3204 |
 
 ## Topics
 
