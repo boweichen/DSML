@@ -7,8 +7,9 @@
 
 | Name          | Role                | Contact                                                          | 
 | ------------- | ------------------- | ---------------------------------------------------------------- | 
-| Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)        |
-| Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk) |
+| Bowei Chen          | Module Coordinator     | [bchen@lincoln.ac.uk](mailto:bchen@lincoln.ac.uk)       |
+| Gerhard Neumann     | Instructor             | [gneumann@lincoln.ac.uk](mailto:gneumann@lincoln.ac.uk) |
+| Deema Abdal Hafeth  | Demonstrator/TA        | [dabdalhafeth@lincoln.ac.uk](dabdalhafeth@lincoln.ac.uk)|
 | Jingmin Huang       | Demonstrator/TA        | [jhua8590@gmail.com](jhua8590@gmail.com) |
 
 ### Timetable 
@@ -28,7 +29,7 @@
 | Lecture  | Thursday 15:00 - 16:00           | JUN0005|
 | Workshop | Thursday 9:00 - 11:00 (Group A)  | MC3203 |
 | Workshop | Thursday 16:00 - 18:00 (Group C) | MC3203 |
-| Workshop | Friday 15:00 - 17:00 (Group B)   | MC3204 |
+| Workshop | Friday 13:00 - 15:00 (Group B)   | MC3204 |
 
 ## Topics
 
