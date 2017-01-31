@@ -74,7 +74,44 @@
   - Lecture & Workshop: Questions & Answers (Q & A) 
 
 ### 2017 Spring (Semester B)
-- TBC
+- [X] Week 01
+  - Lecture: Introduction to Semester B
+  - Workshop: NA
+- [X] Week 02
+  - Lecture: Data Cleaning and Pre-Processing
+  - Workshop: Microsoft Azure Pass Redeem
+- [X] Week 03
+  - Lecture: Matrix and Linear Regression (1/2)
+  - Workshop: TBC
+- [X] Week 04
+  - Lecture: Matrix and Linear Regression (2/2)
+  - Workshop: TBC
+- [X] Week 05
+  - Lecture: KNN & K-Means(1/2)
+  - Workshop: TBC
+- [X] Week 06 
+  - Lecture: KNN & K-Means(2/2)
+  - Workshop: TBC
+- [X] Week 07 
+  - Lecture: Decision Tree and Random Forest (1/2)
+  - Workshop: TBC
+- [X] Week 08 
+  - Lecture: Decision Tree and Random Forest (2/2)
+  - Workshop: TBC
+- [x] Week 09
+  - Lecture: Week for Direct Study 
+  - Workshop: Week for Direct Study
+- [X] Week 10
+  - Lecture: Simulation
+  - Workshop: TBC
+- [X] Week 11
+  - Lecture: Topic Models (1/2)
+  - Workshop: TBC
+- [X] Week 12
+  - Lecture: Topic Models (2/2)
+  - Workshop: TBC
+- [X] Week 13
+  - Lecture & Workshop: Q&A
 
 
 ## Reading Materials
