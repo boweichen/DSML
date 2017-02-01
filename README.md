@@ -78,7 +78,7 @@
   - Lecture: Introduction to Semester B
   - Workshop: NA
 - [ ] Week 02
-  - Lecture: Data Cleaning and Pre-Processing
+  - Lecture: Data Preprocessing
   - Workshop: Microsoft Azure Pass Redeem
 - [ ] Week 03
   - Lecture: Matrix and Linear Regression (1/2)
