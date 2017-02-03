@@ -77,7 +77,7 @@
 - [X] Week 01
   - Lecture: Introduction to Semester B
   - Workshop: NA
-- [ ] Week 02
+- [X] Week 02
   - Lecture: Data Preprocessing
   - Workshop: Microsoft Azure Pass Redeem
 - [ ] Week 03
