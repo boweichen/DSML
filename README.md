@@ -80,7 +80,7 @@
 - [X] Week 02
   - Lecture: Data Preprocessing
   - Workshop: Microsoft Azure Pass Redeem
-- [ ] Week 03
+- [x] Week 03
   - Lecture: Matrix and Linear Regression (1/2)
   - Workshop: TBC
 - [ ] Week 04
