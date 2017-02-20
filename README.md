@@ -86,7 +86,7 @@
 - [x] Week 04
   - Lecture: Matrix and Linear Regression (2/2)
   - Workshop: TBC
-- [x] Week 05
+- [ ] Week 05
   - Lecture: KNN & K-Means(1/2)
   - Workshop: TBC
 - [ ] Week 06 
