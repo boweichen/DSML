@@ -89,9 +89,9 @@
 - [x] Week 05
   - Lecture: KNN & K-Means (1/2)
   - Workshop: KNN in Jupyter Notebook
-- [ ] Week 06 
+- [x] Week 06 
   - Lecture: KNN & K-Means (2/2)
-  - Workshop: TBC
+  - Workshop: K-Means in Azure + Jupyter Notebook
 - [ ] Week 07 
   - Lecture: Decision Tree and Random Forest (1/2)
   - Workshop: TBC
