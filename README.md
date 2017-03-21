@@ -92,13 +92,13 @@
 - [x] Week 06 
   - Lecture: KNN & K-Means (2/2)
   - Workshop: K-Means in Azure + Jupyter Notebook
-- [ ] Week 07 
+- [x] Week 07 
   - Lecture: Decision Tree and Random Forest (1/2)
   - Workshop: TBC
-- [ ] Week 08 
+- [x] Week 08 
   - Lecture: Decision Tree and Random Forest (2/2)
   - Workshop: TBC
-- [ ] Week 09
+- [x] Week 09
   - Lecture: Week for Direct Study 
   - Workshop: Week for Direct Study
 - [ ] Week 10
