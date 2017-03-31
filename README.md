@@ -101,7 +101,7 @@
 - [x] Week 09
   - Lecture: Week for Direct Study 
   - Workshop: Week for Direct Study
-- [ ] Week 10
+- [x] Week 10
   - Lecture: Simulation
   - Workshop: TBC
 - [ ] Week 11
