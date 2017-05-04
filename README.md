@@ -82,10 +82,10 @@
   - Workshop: Microsoft Azure Pass Redeem
 - [x] Week 03
   - Lecture: Matrix and Linear Regression (1/2)
-  - Workshop: TBC
+  - Workshop: Python with Jupyter Notebook
 - [x] Week 04
   - Lecture: Matrix and Linear Regression (2/2)
-  - Workshop: TBC
+  - Workshop: Python with Jupyter Notebook
 - [x] Week 05
   - Lecture: KNN & K-Means (1/2)
   - Workshop: KNN in Jupyter Notebook
@@ -94,24 +94,24 @@
   - Workshop: K-Means in Azure + Jupyter Notebook
 - [x] Week 07 
   - Lecture: Decision Tree and Random Forest (1/2)
-  - Workshop: TBC
+  - Workshop: Python with Jupyter Notebook
 - [x] Week 08 
   - Lecture: Decision Tree and Random Forest (2/2)
-  - Workshop: TBC
+  - Workshop: Python with Jupyter Notebook
 - [x] Week 09
   - Lecture: Week for Direct Study 
   - Workshop: Week for Direct Study
 - [x] Week 10
   - Lecture: Simulation
-  - Workshop: TBC
-- [ ] Week 11
+  - Workshop: Azure
+- [x] Week 11
   - Lecture: Topic Models (1/2)
-  - Workshop: TBC
-- [ ] Week 12
+  - Workshop: Python with Jupyter Notebook
+- [x] Week 12
   - Lecture: Topic Models (2/2)
-  - Workshop: TBC
-- [ ] Week 13
-  - Lecture & Workshop: Q&A
+  - Workshop: Azure
+- [x] Week 13
+  - Lecture: Review
 
 
 ## Reading Materials
