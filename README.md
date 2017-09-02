@@ -1,6 +1,6 @@
 ![GitHub Logo](figs/uol-logo-dark.png)
 
-## Note:
+## Note
 This list of resources is primarily intended to support students at the University of Lincoln to construct their portfolio of data science knowledge and skills. Due to my limited knowledge, the contents might be baised towards some specific fields and many good materials may not be included. I will keep updating the list. If you think I have left something out that should be included in the list, any of your contributions is welcome and please get in touch with me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)] Thanks!
 
 Students who have selected the Data Science Tools and Techniques module and/or the Algorithms for Data Mining module at Lincoln should read the following lines: 
