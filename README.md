@@ -20,7 +20,7 @@ This list of resources is primarily intended to support students at the Universi
 ### Machine Learning
 - Kevin Murphy. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012
 - David Barber. *Bayesian Reasoning and Machine Learning*, Cambridge University Press, 2012
-- Christopher Bishop. *Pattern Recognition and Machine Learnin*, Springer, 2007
+- Christopher Bishop. *Pattern Recognition and Machine Learning*, Springer, 2007
 - Yaser Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin. *Learning From Data*. 2012 [[Link](http://amlbook.com/)]
 - Trevor Hastie, Robert Tibshirani, Jerome Friedman. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd Edition, Springer, 2011
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville. *Deep Learning*,  Book in preparation for MIT Press, 2016 [[Link](http://www.deeplearningbook.org)]
