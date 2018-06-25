@@ -1,14 +1,5 @@
-![GitHub Logo](figs/uol-logo-dark.png)
-
 ## Note
-This list of resources is primarily intended to support students at the University of Lincoln to construct their portfolio of data science knowledge and skills. Due to my limited knowledge, the contents might be baised towards some specific fields and many good materials may not be included. I will keep updating the list. If you think I have left something out that should be included in the list, any of your contributions is welcome and please get in touch with me [[bchen@lincoln.ac.uk](bchen@lincoln.ac.uk)] Thanks!
-
-**Students who have selected the Data Science Tools and Techniques module and/or the Algorithms for Data Mining module at Lincoln should read the following lines:** 
-* Many recommended materials have free e-copies, please google them. 
-* Some books can be borrowed from the University library, please check the library database [[Link](https://library.lincoln.ac.uk)]
-* You are NOT expected to read all materials here! The assessments will be based on the lecture and workshop materials, and please download them from Blackboard [[Link](https://blackboard.lincoln.ac.uk)]. 
-* The list here is a general guide for your direct study. I suggest you to select the materials according to your background and interest. If you have any questions, suggestions, comments, or need guidance, please contact me. 
-
+This list of resources was primarily intended to support the CS undergraduate students at the University of Lincoln to construct their portfolio of data science knowledge and skills, where I taught courses *Data Science Techniques and Tools* and *Algorithms for Data Mining*. I am keeping this list for the new elective course *Data Science for Marketing Analytics*, which I will teach at the Adam Smith Business School of the University of Glasgow in the 2018-2019 academic year. The list will be further updated in the coming months. Due to my limited knowledge, the contents are baised towards some specific fields and many good materials may not be included. If you think I have left something out that should be included in the list, any of your contributions is welcome and please get in touch with me at [bowei.chen@glasgow.ac.uk](bowei.chen@glasgow.ac.uk). 
 
 ## List of Machine Learning and Data Science Resources
 
