@@ -1,7 +1,8 @@
-## Note
-This list of resources was primarily intended to support the CS undergraduate students at the University of Lincoln to construct their portfolio of data science knowledge and skills, where I taught courses *Data Science Techniques and Tools* and *Algorithms for Data Mining*. I am keeping this list for the new elective course *Data Science for Marketing Analytics*, which I will teach at the Adam Smith Business School of the University of Glasgow in the 2018-2019 academic year. The list will be further updated in the coming months. Due to my limited knowledge, the contents are baised towards some specific fields and many good materials may not be included. If you think I have left something out that should be included in the list, any of your contributions is welcome and please get in touch with me at [bowei.chen@glasgow.ac.uk](bowei.chen@glasgow.ac.uk). 
+This list of resources was primarily intended to support the final-year CS undergraduate students at the University of Lincoln to construct their portfolio of data science knowledge and skills, where I taught courses *Data Science Techniques and Tools* and *Algorithms for Data Mining*. I keep this list as the extended reading for the MSc elective courses which I teach at business schools and/or summer school programmes. 
 
-## List of Machine Learning and Data Science Resources
+I will keep updating the list. Due to my limited knowledge, the contents are baised towards some specific fields and many good materials may not be included. If you think I have left something out that should be included in the list, any of your contributions is welcome and please get in touch with me at [Bowei.Chen@glasgow.ac.uk](Bowei.Chen@glasgow.ac.uk). 
+
+## Reading List of Machine Learning and Data Science Resources
 
 ### Probability and Statistics
 - Geoffrey Grimmett, David Stirzaker. *Probability And Random Processes*, Oxford University Press, 2001
