@@ -72,3 +72,7 @@ The list will be kept updated. Due to my limited knowledge, the contents are bai
   * Distributed Machine Learning with Apache Spark [[Link](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)]
   * Big Data Analysis with Apache Spark [[Link](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)]
   
+#### Azure Machine Learning Studio
+- Jeff Barnes. *Azure Machine Learning Microsoft Azure Essentials*, Microsoft Press, 2015 [[Link](https://download.microsoft.com/download/0/9/6/096170E9-23A2-4DA6-89F5-7F5079CB53AB/9780735698178.pdf)]
+- Roger Barga,Valentine Fontama,Wee Hyong Tok. *Predictive Analytics with Microsoft Azure Machine Learning*, Apress, 2015
+- Giner Grant, Julio Granados, Guillermo Fernandez, Pau Sempere, Javier Torrenteras, Paco Gonzalez, Tamanaco Francisquez. *Perform Cloud Data Science with Azure Machine Learning*, Microsoft Press, 2018 [[Link](https://www.microsoft.com/en-us/learning/exam-70-774.aspx)]
